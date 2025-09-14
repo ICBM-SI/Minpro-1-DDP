@@ -7,3 +7,4 @@ Flowchart:
 Penjelasan:
 
 Screenshot Kondisi + Terminal:
+sigma
